@@ -1,0 +1,7 @@
+[package]
+name = "zvezda"
+version = "0.1.0"
+authors = ["Erin Moon <erin@hecke.rs>"]
+edition = "2018"
+
+[dependencies]
