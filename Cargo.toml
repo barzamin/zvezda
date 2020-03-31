@@ -5,3 +5,4 @@ authors = ["Erin Moon <erin@hecke.rs>"]
 edition = "2018"
 
 [dependencies]
+nom = "5.1.1"
